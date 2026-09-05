@@ -1,0 +1,10 @@
+[package]
+name = "symmetrical-potato"
+version = "0.1.0"
+edition = "2021"
+description = "A tiny terminal command that draws a symmetrical potato in ASCII."
+license = "MIT"
+
+[[bin]]
+name = "potato"
+path = "src/main.rs"
