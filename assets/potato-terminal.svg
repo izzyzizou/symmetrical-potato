@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 470" role="img" aria-labelledby="title desc">
+  <title id="title">Symmetrical potato terminal screenshot</title>
+  <desc id="desc">A dark terminal window containing a warm golden ASCII potato.</desc>
+  <rect width="760" height="470" rx="18" fill="#171a21"/>
+  <rect width="760" height="52" rx="18" fill="#282d38"/>
+  <rect y="34" width="760" height="18" fill="#282d38"/>
+  <circle cx="28" cy="26" r="7" fill="#ff6b6b"/>
+  <circle cx="52" cy="26" r="7" fill="#ffd166"/>
+  <circle cx="76" cy="26" r="7" fill="#76d275"/>
+  <text x="380" y="32" text-anchor="middle" fill="#aeb6c4" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">potato — zsh</text>
+  <text x="48" y="95" fill="#76d275" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20">$ potato</text>
+  <g fill="#f6d365" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="24" text-anchor="middle">
+    <text x="380" y="145">.-''''-.</text>
+    <text x="380" y="172">.'  .--.  '.</text>
+    <text x="380" y="199">/   /    \   \</text>
+    <text x="380" y="226">;   |  ()  |   ;</text>
+    <text x="380" y="253">|   |      |   |</text>
+    <text x="380" y="280">;   |  ..  |   ;</text>
+    <text x="380" y="307">\   \____/   /</text>
+    <text x="380" y="334">'.        .'</text>
+    <text x="380" y="361">'-.__.-'</text>
+    <text x="380" y="388">/  ||  \</text>
+    <text x="380" y="415">/___||___\</text>
+  </g>
+  <text x="48" y="448" fill="#76d275" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">fresh from the terminal</text>
+</svg>
